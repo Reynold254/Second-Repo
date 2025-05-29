@@ -1,0 +1,344 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "History",
+      "difficulty": "easy",
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correct_answer": "Paris",
+      "explanation": "Paris has been the capital of France since 987 AD, serving as the political and cultural center."
+    },
+    {
+      "id": 2,
+      "category": "Science",
+      "difficulty": "easy",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Jupiter", "Mars", "Venus", "Mercury"],
+      "correct_answer": "Mars",
+      "explanation": "Mars is called the Red Planet due to its reddish appearance, caused by iron oxide (rust) on its surface."
+    },
+    {
+      "id": 3,
+      "category": "Literature",
+      "difficulty": "easy",
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "correct_answer": "William Shakespeare",
+      "explanation": "William Shakespeare wrote 'Romeo and Juliet' around 1597, a famous tragedy about star-crossed lovers."
+    },
+    {
+      "id": 4,
+      "category": "History",
+      "difficulty": "easy",
+      "question": "Who was the first President of the United States?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "John Adams"
+      ],
+      "correct_answer": "George Washington",
+      "explanation": "George Washington served as the first U.S. President from 1789 to 1797."
+    },
+    {
+      "id": 5,
+      "category": "Science",
+      "difficulty": "easy",
+      "question": "What gas do plants use for photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correct_answer": "Carbon Dioxide",
+      "explanation": "Plants use carbon dioxide, water, and sunlight to produce glucose and oxygen during photosynthesis."
+    },
+    {
+      "id": 6,
+      "category": "Literature",
+      "difficulty": "easy",
+      "question": "What is the name of the hobbit in 'The Lord of the Rings'?",
+      "options": ["Frodo Baggins", "Harry Potter", "Bilbo Baggins", "Gandalf"],
+      "correct_answer": "Frodo Baggins",
+      "explanation": "Frodo Baggins is the main character in J.R.R. Tolkien's 'The Lord of the Rings,' tasked with destroying the One Ring."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "difficulty": "easy",
+      "question": "In which year did Christopher Columbus sail to the Americas?",
+      "options": ["1492", "1453", "1519", "1607"],
+      "correct_answer": "1492",
+      "explanation": "Christopher Columbus reached the Americas in 1492, marking the start of European colonization."
+    },
+    {
+      "id": 8,
+      "category": "Science",
+      "difficulty": "easy",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "correct_answer": "H2O",
+      "explanation": "Water is composed of two hydrogen atoms and one oxygen atom, represented as H2O."
+    },
+    {
+      "id": 9,
+      "category": "Literature",
+      "difficulty": "easy",
+      "question": "Who wrote 'The Cat in the Hat'?",
+      "options": ["Dr. Seuss", "Roald Dahl", "J.K. Rowling", "C.S. Lewis"],
+      "correct_answer": "Dr. Seuss",
+      "explanation": "Dr. Seuss, pen name of Theodor Geisel, wrote 'The Cat in the Hat' in 1957."
+    },
+    {
+      "id": 10,
+      "category": "History",
+      "difficulty": "easy",
+      "question": "Which ancient wonder was located in Egypt?",
+      "options": [
+        "Great Pyramid of Giza",
+        "Hanging Gardens",
+        "Colossus of Rhodes",
+        "Temple of Artemis"
+      ],
+      "correct_answer": "Great Pyramid of Giza",
+      "explanation": "The Great Pyramid of Giza, built around 2600 BC, is the only surviving ancient wonder."
+    },
+    {
+      "id": 11,
+      "category": "History",
+      "difficulty": "medium",
+      "question": "What was the chemical symbol for Gold?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correct_answer": "Au",
+      "explanation": "Gold's chemical symbol is Au, derived from its Latin name, Aurum."
+    },
+    {
+      "id": 12,
+      "category": "Science",
+      "difficulty": "medium",
+      "question": "What is the primary source of energy for Earth's climate system?",
+      "options": [
+        "Geothermal heat",
+        "Solar radiation",
+        "Ocean currents",
+        "Wind energy"
+      ],
+      "correct_answer": "Solar radiation",
+      "explanation": "Solar radiation drives Earth's climate by heating the atmosphere and surface, influencing weather patterns."
+    },
+    {
+      "id": 13,
+      "category": "Literature",
+      "difficulty": "medium",
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": [
+        "Jane Austen",
+        "Charlotte Bronte",
+        "Emily Dickinson",
+        "Virginia Woolf"
+      ],
+      "correct_answer": "Jane Austen",
+      "explanation": "Jane Austen published 'Pride and Prejudice' in 1813, a classic novel about love and social class."
+    },
+    {
+      "id": 14,
+      "category": "History",
+      "difficulty": "medium",
+      "question": "Which war was fought between 1939 and 1945?",
+      "options": ["World War I", "World War II", "Cold War", "Korean War"],
+      "correct_answer": "World War II",
+      "explanation": "World War II, fought from 1939 to 1945, involved many countries and ended with the Allied victory."
+    },
+    {
+      "id": 15,
+      "category": "Science",
+      "difficulty": "medium",
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
+      "correct_answer": "Mitochondria",
+      "explanation": "Mitochondria produce ATP, the cell's energy currency, through cellular respiration."
+    },
+    {
+      "id": 16,
+      "category": "Literature",
+      "difficulty": "medium",
+      "question": "In which novel does the character Atticus Finch appear?",
+      "options": [
+        "To Kill a Mockingbird",
+        "The Great Gatsby",
+        "1984",
+        "Moby-Dick"
+      ],
+      "correct_answer": "To Kill a Mockingbird",
+      "explanation": "Atticus Finch is a central character in Harper Lee's 'To Kill a Mockingbird,' published in 1960."
+    },
+    {
+      "id": 17,
+      "category": "History",
+      "difficulty": "medium",
+      "question": "Who was the first woman to fly solo across the Atlantic?",
+      "options": [
+        "Amelia Earhart",
+        "Bessie Coleman",
+        "Harriet Quimby",
+        "Jacqueline Cochran"
+      ],
+      "correct_answer": "Amelia Earhart",
+      "explanation": "Amelia Earhart completed her solo transatlantic flight in 1932."
+    },
+    {
+      "id": 18,
+      "category": "Science",
+      "difficulty": "medium",
+      "question": "What element has the atomic number 6?",
+      "options": ["Carbon", "Nitrogen", "Oxygen", "Boron"],
+      "correct_answer": "Carbon",
+      "explanation": "Carbon has an atomic number of 6, indicating six protons in its nucleus."
+    },
+    {
+      "id": 19,
+      "category": "Literature",
+      "difficulty": "medium",
+      "question": "Who wrote the poem 'The Raven'?",
+      "options": [
+        "Edgar Allan Poe",
+        "Walt Whitman",
+        "Emily Dickinson",
+        "Robert Frost"
+      ],
+      "correct_answer": "Edgar Allan Poe",
+      "explanation": "Edgar Allan Poe published 'The Raven' in 1845, a narrative poem about loss and mystery."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "difficulty": "medium",
+      "question": "Which empire was ruled by Genghis Khan?",
+      "options": [
+        "Ottoman Empire",
+        "Mongol Empire",
+        "Roman Empire",
+        "Byzantine Empire"
+      ],
+      "correct_answer": "Mongol Empire",
+      "explanation": "Genghis Khan founded the Mongol Empire in the early 13th century, one of the largest empires in history."
+    },
+    {
+      "id": 21,
+      "category": "History",
+      "difficulty": "hard",
+      "question": "Which mathematician developed the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Carl Gauss",
+        "Bernhard Riemann"
+      ],
+      "correct_answer": "Albert Einstein",
+      "explanation": "Albert Einstein developed the theory of relativity, with special relativity in 1905 and general relativity in 1915."
+    },
+    {
+      "id": 22,
+      "category": "Science",
+      "difficulty": "hard",
+      "question": "What is the primary source of energy for Earth's climate system?",
+      "options": [
+        "Geothermal heat",
+        "Solar radiation",
+        "Ocean currents",
+        "Wind energy"
+      ],
+      "correct_answer": "Solar radiation",
+      "explanation": "Solar radiation provides the primary energy input for Earth's climate, driving atmospheric and oceanic processes."
+    },
+    {
+      "id": 23,
+      "category": "Literature",
+      "difficulty": "hard",
+      "question": "In which novel is the character Holden Caulfield the protagonist?",
+      "options": [
+        "The Catcher in the Rye",
+        "Lord of the Flies",
+        "Brave New World",
+        "Catch-22"
+      ],
+      "correct_answer": "The Catcher in the Rye",
+      "explanation": "Holden Caulfield is the protagonist of J.D. Salinger's 'The Catcher in the Rye,' published in 1951."
+    },
+    {
+      "id": 24,
+      "category": "History",
+      "difficulty": "hard",
+      "question": "Which treaty ended World War I?",
+      "options": [
+        "Treaty of Versailles",
+        "Treaty of Trianon",
+        "Treaty of Brest-Litovsk",
+        "Treaty of Lausanne"
+      ],
+      "correct_answer": "Treaty of Versailles",
+      "explanation": "The Treaty of Versailles, signed in 1919, officially ended World War I."
+    },
+    {
+      "id": 25,
+      "category": "Science",
+      "difficulty": "hard",
+      "question": "What particle is responsible for carrying the strong nuclear force?",
+      "options": ["Photon", "Gluon", "W Boson", "Neutrino"],
+      "correct_answer": "Gluon",
+      "explanation": "Gluons are particles that mediate the strong nuclear force, binding quarks within protons and neutrons."
+    },
+    {
+      "id": 26,
+      "category": "Literature",
+      "difficulty": "hard",
+      "question": "Who wrote the epic poem 'Paradise Lost'?",
+      "options": [
+        "John Milton",
+        "Geoffrey Chaucer",
+        "William Blake",
+        "John Donne"
+      ],
+      "correct_answer": "John Milton",
+      "explanation": "John Milton published 'Paradise Lost' in 1667, an epic poem about the fall of man."
+    },
+    {
+      "id": 27,
+      "category": "History",
+      "difficulty": "hard",
+      "question": "Which ancient civilization built Machu Picchu?",
+      "options": ["Inca", "Maya", "Aztec", "Olmec"],
+      "correct_answer": "Inca",
+      "explanation": "The Inca civilization built Machu Picchu in the 15th century in present-day Peru."
+    },
+    {
+      "id": 28,
+      "category": "Science",
+      "difficulty": "hard",
+      "question": "What is the half-life of Carbon-14?",
+      "options": ["5,730 years", "12 years", "1,000 years", "138 days"],
+      "correct_answer": "5,730 years",
+      "explanation": "Carbon-14 has a half-life of approximately 5,730 years, used in radiocarbon dating."
+    },
+    {
+      "id": 29,
+      "category": "Literature",
+      "difficulty": "hard",
+      "question": "Which novel begins with 'Call me Ishmael'?",
+      "options": ["Moby-Dick", "The Scarlet Letter", "Billy Budd", "Typee"],
+      "correct_answer": "Moby-Dick",
+      "explanation": "Herman Melville's 'Moby-Dick,' published in 1851, opens with the famous line 'Call me Ishmael.'"
+    },
+    {
+      "id": 30,
+      "category": "History",
+      "difficulty": "hard",
+      "question": "Who was the last Tsar of Russia?",
+      "options": ["Nicholas II", "Alexander III", "Peter the Great", "Ivan IV"],
+      "correct_answer": "Nicholas II",
+      "explanation": "Nicholas II was the last Tsar of Russia, abdicating in 1917 during the Russian Revolution."
+    }
+  ]
+}
